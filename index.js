@@ -14,6 +14,6 @@ function Driver(name, age, experience) {
 
 function pPickUpLocation(address, city) {
   this.address = address;
-  this.city = city,
+  this.city = city;
 
 }
