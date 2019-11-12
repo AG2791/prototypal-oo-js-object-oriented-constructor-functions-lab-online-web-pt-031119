@@ -9,3 +9,9 @@ function driver(name, age, experience) {
   this.color = color,
   this.model = model
 }
+
+function pickUpLocation(address, city) {
+  this.year = year,
+  this.color = color,
+  this.model = model
+}
