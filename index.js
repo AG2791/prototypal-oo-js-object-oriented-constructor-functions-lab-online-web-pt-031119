@@ -2,18 +2,18 @@
 
 function Scooter(year, color, model) {
   this.year = year;
-  this.color = color,
+  this.color = color;
   this.model = model
 }
 
 function Driver(name, age, experience) {
-  this.name = name,
-  this.age = age,
+  this.name = name;
+  this.age = age;
   this.experience = experience
 }
 
 function pPickUpLocation(address, city) {
-  this.address = address,
+  this.address = address;
   this.city = city,
 
 }
